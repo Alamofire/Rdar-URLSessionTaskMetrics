@@ -17,7 +17,7 @@ Unsure on this one. By simply defining a global property with an @available chec
 
 ## Rdar
 
-TODO: fill out once filed.
+This issue has been filed as `rdar://36082113` on 2017-12-15 and can be found on [Open Radar](http://openradar.appspot.com/radar?id=4942308441063424).
 
 ## Resolution
 
